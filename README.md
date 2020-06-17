@@ -1,2 +1,2 @@
 # Rasterizer
-# Rasterizer
+A C++ based rasterizer
